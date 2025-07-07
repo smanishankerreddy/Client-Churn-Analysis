@@ -9,7 +9,7 @@ A utility provider shared two datasets:
 client_data.csv – containing electricity/gas consumption history, margin metrics, product engagement, and churn labels
 
 price_data.csv – containing dynamic pricing for off-peak, peak, and mid-peak periods over time
-
+ 
 The client requested a comprehensive Exploratory Data Analysis (EDA) to understand:
 
 What features are most predictive of churn?
